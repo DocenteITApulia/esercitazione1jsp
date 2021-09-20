@@ -16,7 +16,7 @@
     <form:label path="email">Email: </form:label><form:input type="text" path="email" />
     <form:label path="password">password: </form:label><form:input type="text" path="password" />
     <form:label path="nome">verifica password: </form:label><form:input type="text" path="vpassword" />
-    <form:label path="checkbox">Accetta condizioni privacy: </form:label><form:checkbox path="privacy"/>
+    <form:label path="privacy">Accetta condizioni privacy: </form:label><form:checkbox path="privacy"/>
 
     <p><input type="submit" value="Submit" /> <input type="reset" value="Reset" /> </p>
 </form:form>

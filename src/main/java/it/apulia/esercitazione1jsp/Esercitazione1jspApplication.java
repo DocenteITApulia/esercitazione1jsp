@@ -19,3 +19,4 @@ public class Esercitazione1jspApplication extends SpringBootServletInitializer {
 
 }
 //https://www.baeldung.com/spring-boot-jsp potrebbe essere utile anche per la gestione degli errori
+//ho dovuto mettere la 1.2 perchè la 2.0 dava problemi
